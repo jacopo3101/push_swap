@@ -34,6 +34,7 @@ clean:
 			@make clean -C $(PRINTF)
 			
 fclean:	clean
+			@make fclean -C $(PRINTF)
 			@$(RM) $(NAME)
 			@$(RM) $(LIBRARY)
 			@$(RM) checker
