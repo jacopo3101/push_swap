@@ -109,4 +109,4 @@ Then execute `push_swap` and `checker` by giving them the same data set `ARG`.
 `ARG="99 11 25 5 60 24 20 66 8 75 71 80 4 93 34 52 91 37 61 86"; ./push_swap "$ARG" | ./checker "$ARG"`
 
 ## Score
-![project score](/push_swap/assets/score.png)
+![project score](/assets/score.png)
